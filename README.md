@@ -208,8 +208,7 @@ feature/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/NayemSoftvence/flutter_template.git
-cd flutter_template
+git clone https://github.com/abdusshohidnasim/template_sv.git
 ```
 
 2. **Install dependencies:**
